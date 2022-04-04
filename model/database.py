@@ -4,8 +4,8 @@ class Database:
     config = {
         'host': 'localhost',
         'database': 'JSONPlaceholder',
-        'user':'admindbmotorsn',
-        'password':'Super-Password-Admindbmotorsn-2022'
+        'user':'YOUR_USERNAME',
+        'password':'YOUR_PASSWORD'
     }
 
     def __init__(self):
